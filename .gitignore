@@ -3,3 +3,6 @@
 cache/
 src/cache
 venv
+subst_test/*_subwords
+subst_train/active_subst
+    
